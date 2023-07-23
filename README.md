@@ -77,3 +77,8 @@ After all team member have finished cleaning their respective dataset, they are 
 
 #### Question 5): Which type of investors invest the most money
 ![Question5](https://github.com/sethsot/Analysis-of-the-Indian-Startup-Ecosystem/assets/137343449/a28b98f4-f334-4c55-a336-87dd09add32d)
+
+## Conclusion
+Based on our Hypothesis testing and analysis, we Reject the null hypothesis since p_value is less than our significance level (0.05)
+Therefore, we conclude that 
+## The sector of a start-up affects the amount of funding received’ was rejected as there is no relationship between the two.
