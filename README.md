@@ -1,4 +1,10 @@
 # Analysis of the Indian Startup Ecosystem
+## Summary
+Published Article : https://medium.com/@oparetwumseth/analysis-of-the-indian-startup-ecosystem-bff01133bd86
+Deployed App : https://app.powerbi.com/links/z17_dpzLMY?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare
+![image](https://github.com/sethsot/Analysis-of-the-Indian-Startup-Ecosystem/assets/137343449/2d30b62f-67c7-4bee-9f6c-50bb1d812b27)
+
+
 ## Introduction
 This project is an analysis of the Indian Startup Ecosystem. The purpose is to dig deeper into the how startups are funded in India. Based on our findings, management can make informed decisions on the best approach of entry.  
 ## Hypothesis
@@ -81,4 +87,7 @@ After all team member have finished cleaning their respective dataset, they are 
 ## Conclusion
 Based on our Hypothesis testing and analysis, we Reject the null hypothesis since p_value is less than our significance level (0.05)
 Therefore, we conclude that 
-## The sector of a start-up affects the amount of funding received’ was rejected as there is no relationship between the two.
+The sector of a start-up affects the amount of funding received’ was rejected as there is no relationship between the two.
+
+## Author
+Seth Opare-Twum
